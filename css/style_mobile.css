@@ -478,7 +478,7 @@ i.picto_agence:before{
 
 #mentions_legales .mentions dt {
 	position: relative;
-  padding: 0 0 5vw 0;
+  padding: 0 0 7vw 0;
   padding-left: 9vw;
   line-height: 5vw;
   text-align: justify;
@@ -492,6 +492,10 @@ i.picto_agence:before{
 
 #mentions_legales .mentions dt:last-child {
 	padding-bottom: 10vw;
+}
+
+#mentions_legales .mentions dt:last-child:before {
+	content: '*';
 }
 
 

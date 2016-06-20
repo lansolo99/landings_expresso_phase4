@@ -534,7 +534,7 @@ i.arrow.blue:before{
 
 #mentions_legales .mentions dt {
 	position: relative;
-  padding: 0px 0 7px 0;
+  padding: 0px 0 22px 0;
   padding-left: 30px;
   line-height: 22px;
   font-size: 12px;
@@ -544,10 +544,6 @@ i.arrow.blue:before{
 }
 
 
-/*#mentions_legales .mentions dt:before{
-	content: '('counter(mention_count)')';
-    counter-increment: mention_count;
-}*/
 #mentions_legales .mentions dt span{
     position: absolute;
     left: 0;
@@ -558,7 +554,7 @@ i.arrow.blue:before{
 
 
 #mentions_legales .mentions dt p{
-  margin-top: 10px;
+  margin-top: 22px;
 }
 
 /* Footer */
