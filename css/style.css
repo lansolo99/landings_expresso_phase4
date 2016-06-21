@@ -139,6 +139,7 @@ header{
 
 #logoBfmTop{
   display: inline-block;
+  vertical-align: middle;
   *display: inline;
   *zoom: 1;
   width: 39px;
